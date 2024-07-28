@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Anas Obaid. I'm currently working at **O'cyber.io**
+I am Anas Obaid. A full-stack web developer currently working at **O’Cyber**, proficient in React.js/Next.js, SQL/NoSQL, and NestJs/Node.js for full-stack development, with a strong foundation in most of the popular web technologies.
 
 <!--
 **TheAnasObaid/TheAnasObaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
